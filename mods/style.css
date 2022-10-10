@@ -1,0 +1,72 @@
+body{
+    background-color: #ff6666;
+}
+
+.title{
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: overline;
+}
+
+.card-container{
+    border: 5px solid antiquewhite;
+    height: 750px;
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 10%;
+}
+
+.card{
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
+
+.Hcard1{
+    background-image: url('../img/img1.jpeg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
+
+.Hcard2{
+    background-image: url('../img/img2.jpeg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
+
+.Hcard3{
+    background-image: url('../img/img3.jpeg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
+
+.Hcard4{
+    background-image: url('../img/img4.jpeg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
+
+.Hcard5{
+    background-image: url('../img/img5.jpeg');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 20%;
+}
