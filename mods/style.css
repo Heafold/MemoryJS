@@ -20,53 +20,40 @@ body{
 }
 
 .card{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin: 50px;
     border-radius: 20%;
 }
 
-.Hcard1{
+.flipped1{
     background-image: url('../img/img1.jpeg');
     background-size: cover;
-    width: 150px;
-    height: 150px;
-    margin: 50px;
-    border-radius: 20%;
 }
 
-.Hcard2{
+.flipped2{
     background-image: url('../img/img2.jpeg');
     background-size: cover;
-    width: 150px;
-    height: 150px;
-    margin: 50px;
-    border-radius: 20%;
 }
 
-.Hcard3{
+.flipped3{
     background-image: url('../img/img3.jpeg');
     background-size: cover;
-    width: 150px;
-    height: 150px;
-    margin: 50px;
-    border-radius: 20%;
 }
 
-.Hcard4{
+.flipped4{
     background-image: url('../img/img4.jpeg');
     background-size: cover;
-    width: 150px;
-    height: 150px;
-    margin: 50px;
-    border-radius: 20%;
 }
 
-.Hcard5{
+.flipped5{
     background-image: url('../img/img5.jpeg');
     background-size: cover;
-    width: 150px;
-    height: 150px;
-    margin: 50px;
-    border-radius: 20%;
 }
+.notflipped{
+    background-image: url('../img/back.jpeg');
+    background-size: cover;
+}
+
+
+
