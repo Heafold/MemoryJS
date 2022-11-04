@@ -8,6 +8,17 @@ body{
     text-decoration: overline;
 }
 
+.replay{
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+
 .card-container{
     border: 5px solid antiquewhite;
     height: 750px;
@@ -41,15 +52,6 @@ body{
     background-size: cover;
 }
 
-.flipped4{
-    background-image: url('../img/img4.jpeg');
-    background-size: cover;
-}
-
-.flipped5{
-    background-image: url('../img/img5.jpeg');
-    background-size: cover;
-}
 .notflipped{
     background-image: url('../img/back.jpeg');
     background-size: cover;
